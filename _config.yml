@@ -16,7 +16,8 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 #https://www.freepik.com/free-vector/v60-pla-kala-26c-animals_3129755.htm#page=1&query=golden%20retriever&position=2
 #title:		           "Lambda"
-title:               <img src="https://github.com/vcobop/lambda_blog/blob/gh-pages/assets/img/lambda-logo.jpg" alt="Lambda logo">
+#title:               <img src="https://github.com/vcobop/lambda_blog/blob/gh-pages/assets/img/lambda-logo.jpg" alt="Lambda logo">
+title:               {icon: 'twitter', link: 'https://twitter.com/insecto_d_oro'}
 description:	       "personal blog focused in bioinformatic topics"
 author:              "Valentina Cobo"
 
